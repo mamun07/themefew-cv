@@ -11,12 +11,9 @@ const Banner = () => {
         </Col>
         <Col span={12}>
           <BannerContent>
-            <h4>Born in 1988, BD</h4>
+            <h4>Born in 1992, Bangladesh</h4>
             <h1>Catharine Vittens</h1>
-            <p>
-              Senior Software Designer — LAO inc. <br />
-              Creative director — Patcher's
-            </p>
+            <h2>Senior Web Developer — Care Me.</h2>
             <ButtonGroup>
               <Btn size="large">Download CV</Btn>
               <Btn size="large">Portfolio</Btn>
